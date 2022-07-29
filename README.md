@@ -1,0 +1,1 @@
+This is a working backend API for a NotesApp prototype.There is no data persistence as of now. The default route for all intents and purposes has been modified to "/api/notes".
